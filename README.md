@@ -1,10 +1,10 @@
-Anthony Tast
+# Anthony Tast
 
-About Me
+## About Me
 - Studying CS & Math @ Hofstra University '28
 - Chaminade High School '24
 - Long Island, New York
-Languages and Frameworks
+## Languages and Frameworks
 - Python
 - Swift
 - JavaScript
