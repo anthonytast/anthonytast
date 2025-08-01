@@ -7,7 +7,7 @@
 * 📚 Break Through Tech AI/ML Fellow @ Cornell Tech
 * 🏫 Chaminade High School '24
 * 💻 Full-Stack Developer
-*  iOS Developer
+* 🍎 iOS Developer
 * 🤖 ML & AI Engineer
 
 ## Languages & Tools
