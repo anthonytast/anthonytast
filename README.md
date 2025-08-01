@@ -40,7 +40,7 @@
 
 <!-- [Chaminade App](https://github.com/anthonytast/chaminadeapp) – School iOS App with Live Bell Schedule   -->
 Chaminade App (temporarily private repo) – School iOS App with Live Bell Schedule
-Developed and deployed the official Chaminade High School iOS app with real-time bell schedule widget and Google Calendar integration. 5,000+ downloads and 4.8★ on the App Store.
+Developed and deployed the official Chaminade High School iOS app with real-time bell schedule widget and Google Calendar integration. 5,000+ downloads and 4.8/5 ⭐️ on the App Store.
 **Tech Stack:** Swift, WidgetKit, Google API
 **Experience:** iOS development lifecycle, API integration, App Store deployment
 
