@@ -29,9 +29,11 @@
 ![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
 
 **Databases & Services:**  
-![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql)
 ![Firebase](https://img.shields.io/badge/-Firebase-333?style=flat&logo=firebase)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
+![Next.js](https://img.shields.io/badge/-Next.js-333?style=flat&logo=next.js)
+![Vite](https://img.shields.io/badge/-Vite-333?style=flat&logo=vite)
 ![AWS](https://img.shields.io/badge/-AWS-333?style=flat&logo=amazonaws)
 
 ## Featured Projects
