@@ -2,7 +2,7 @@
 
 ## About Me
 
-* 🗽 Long Island, New York
+* 🏖️ Long Island, New York
 * 🎓 Studying CS & Math @ Hofstra University '27
 * 📚 Break Through Tech AI/ML Fellow @ Cornell Tech
 * 🏫 Chaminade High School '24
