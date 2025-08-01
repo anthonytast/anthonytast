@@ -33,8 +33,6 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-333?style=flat&logo=firebase)
 ![AWS](https://img.shields.io/badge/-AWS-333?style=flat&logo=amazonaws)
 
----
-
 ## Let's Connect!
 
 - 🌐 [anthonytast.com](https://anthonytast.com)
